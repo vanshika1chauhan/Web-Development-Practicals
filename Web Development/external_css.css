@@ -1,0 +1,26 @@
+body{
+    background-color:#CCFFCC;
+    background-image: url("kva dav college.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    margin:80px;
+}
+body:focus{
+    outline-style: dotted;
+}
+h1{
+    background-color: yellow;
+    color:blue;
+    text-align:left;
+}
+h2{
+    color:red;
+    text-align:right;
+}
+p{
+    color:green;
+    font-family:Elephant;
+    font-weight:100;
+}
